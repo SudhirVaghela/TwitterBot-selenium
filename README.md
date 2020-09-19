@@ -1,2 +1,2 @@
-# TwittwerBot-selenium
+# TwitterBot-selenium
 simple twitter bot
