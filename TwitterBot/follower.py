@@ -29,6 +29,7 @@ class TwitterBott:
         for i in range(1, 10):
             bot.execute_script('window.scrollBy(0,500)')
             time.sleep(10)
+            print('procced')
 
 
 tb = TwitterBott('username', 'password')
